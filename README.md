@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img width="460" height="300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vIho6KrmpByxLLf2tRvHNg.png">
+  <img width="460" height="300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*kmYJfDU7BSKWrIaRXm0onA.jpeg">
 </p>
 
-<h1 align="center"><a href="https://medium.com/javarevisited/mastering-java-collections-exploring-compute-methods-in-maps-0c48f983cf30">Mastering Java Collections: Exploring Compute Methods in Maps
+<h1 align="center"><a href="https://medium.com/gitconnected/java-stream-api-mastering-reduction-operations-6b42271d75b4">Java Stream API: Mastering Reduction Operations
 </a></h1>
